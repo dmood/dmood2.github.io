@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Recognizing Characters</title>
+</head>
+
+<style type="text/css">
+</style>
+
+<body>
+
+	<h1> Instructions </h1>
+	<ul>
+		<li>Please read each story carefully.</li>
+		<li>After reading each story, please identify the name of the main character (if available), and a 10 word description of the main character</li>
+	</ul>
+
+	<form id="mturk_form" name="mturk_form">
+		<div>
+			<h2><a href="http://www.scp-wiki.net//laughter"> Laughter </a></h2>
+
+			<p>
+
+				Most days, I wish I hadn't been given the ability to do anything for myself. It's nice that I can feed myself and use the toilet on my own, for what I hope are obvious reasons. The act of operating an elevator properly is the high point of my day — the moment where I can choose the floor I want is like having a weight lifted off of my chest. And so on and so forth.
+
+				The thing about agency is that even the smallest drop opens the door for guilt. There are an assortment of very good reasons why I'm not responsible for what I do, but whenever I do anything more than put one foot in front of the other, I can't shake away the thought: You could have stopped yourself. Guilt is the one emotion I've always felt strongly, and it's doing me no favors now.
+
+				Every so often, I'll try to count the bodies — memorializing them, if only in aggregate — but my body is usually steering me away before I can get a look at everyone. It's a shame, because I'm very good at memorization (always have been, actually) and could keep an accurate tally if I was allowed. Now, that has done me favors — my memory is what allows me to "write" this. Writing still brings satisfaction even when I'm the whole audience.
+
+				But I digress. My point is, I am a writer, and with some effort I can still do it in a limited fashion. I construct narratives. Here are two narratives.
+
+				The first entails me being placed into a body that goes around and makes people kill each other in a blind panic. I am a decent person, and I find this very tragic, and I wish that it wasn't happening, or at the very least that I was not forced to participate. Even the faintest whiff of agency is enough to make me doubt and blame myself. It happens anyways.
+
+				The second entails me being placed into a body that goes around and makes people kill each other in a blind panic. I am an evil man who takes great joy in this, only wishing that I could take control of my body and do it more often. Every moment where I can move for myself gives me hope that this might happen. Things proceed as normal.
+
+				You'll notice that empathy and decency only cause me anguish; I doubt they alleviate the pain of being crushed under a pile of screaming humanity. My teachers always said that a logical, detached perspective was one of my strengths.
+
+				There's a moment, when the crowd's fervor reaches its fever pitch, where I have a chance to express myself. Not speech, unfortunately. But whatever I'm feeling comes out, if I let it.
+
+				I'm tired of crying. Maybe I should laugh.
+			</p>
+
+			<textarea rows="15" cols="50" name="sentence1"required></textarea>
+		</div>
+
+		<div>
+			<h2><a href="http://www.scp-wiki.net/the-gate-opens"> The Gate Opens</a></h2>
+
+			<p>
+				Yahweh awoke in His human form in His room at Site 17, knowing that the hour had arrived.
+
+				In an instant, He was at Site 0. The personnel in the control 	room, some half asleep, leapt to their feet as He appeared. He took a moment to watch the dawning look of comprehension on their faces. O5-14 staggered to his feet.
+
+				"The Time has come," Yahweh intoned.
+
+				In another eye-blink, He was at the Gate. The being that the Foundation called SCP-001-Gamma bowed in front of Him, lowering its burning sword, its four flaming wings spread in reverence.
+
+				"Uriel," Yahweh said. "It is Time. Open the Gate. Lead My armies across the Earth."
+
+				"I HEAR AND OBEY, MY LORD AND MY GOD," Uriel said.
+
+				The Gate began to creak open. Behind it was an army of angels, thousands of bright creatures, many-eyed, burning with pure red light. They raised their white swords, singing a chant of war, and the rustling of countless brilliant wings filled the air.
+
+				The thing inside Site 10, the singularity that was, was not, had always been, and had never been a part of the Lock, unfurled itself like a flower.
+
+				Site 10 was demolished in an instant. No one inside had any moment for last thoughts before their deaths.
+
+				Then they were all alive again, shaken, deposited somewhere in New Hampshire. Along with Site 10, intact, aside from the destruction the Harbinger had dealt to it.
+
+				Meanwhile, the ruins of Site 10 and the corpses of everyone in it were buried deep within the vast valley that had never existed before on the planet Earth, and yet, now, had always existed, displacing a few thousand miles of desert in the Middle East. It was still both there, and not. Either way, it was.
+
+				Waves of blue and green energy washed about, and the valley filled with plants and animals the like of which had never been seen before.
+
+				In the very center, orbiting in a wash of iridescent rainbow color, the Lock hovered in the center of a tiny singularity. Open, at long last. Sending out its signal.
+
+				Dr. Everett Mann was in the middle of dissecting a recently dead instance of SCP-098 when its legs started to twitch.
+
+				Everett paused his scalpel in mid-cut and watched with curiosity. This had never happened before.
+
+				He looked over at the cage of live SCP-098 specimens. They were also acting oddly. They were stock still. Not a single red-orange limb was making so much as a twitch. SCP-098 were not exactly the calmest species of anomalous crustacean, and Everett had never seen them behave this way.
+
+				They appeared to be… watching. Waiting for something.
+
+				The dead 098 instance kept twitching.
+
+				"Hmmm," Everett said.
+
+				His cell phone vibrated in his lab coat. This was the secure cell, the one that only rang in serious emergencies. Everett put down the scalpel and picked up the call.
+
+				"Everett Mann, Site 2036, status five," he said.
+
+				"The sword falls and rises," the voice on the other line said.
+
+				"But it kills in one stroke," Everett replied.
+
+				"Emergency Order Patmos is now in effect," the voice said. "995 has breached containment. 616 has opened. We are awaiting report from 001-Gamma. We are securing 073 and 076…"
+
+				"And you want to know about 098," Everett said.
+
+				"Have SCP-098 activated?" the voice asked.
+
+				"I am sorry to disappoint you. They are acting a bit odd, but I cannot say…"
+
+				The dead 098 instance froze, then burst into pale orange flame.
+
+				After another moment passed, the other 098 specimens burst into flame, all at the same time. Little slots in their shells opened, and delicate, vibrating, dragonfly-like wings sprang out. As far as Everett could tell, each 098 instance sprouted as many wings as they had limbs. Even the dead instance. Which was now looking significantly less dead.
+
+				They breached the sides of their cage in an instant, all chittering at once in some alien language. They ripped through the plate glass window of the sealed experiment chamber and swarmed away through the site, demolishing the walls that got in their way. Everett stared after them.
+
+				"Never mind," Everett said to the voice waiting on the other line. "I'd say that probably counts."
+
+				Yahweh appeared to the entire remaining thirteen members O5 Council at once in thirteen different locations. He did not appear, of course, to the Administrator, because the last Administrator had died years ago and had not been replaced. O5-14 no longer voted on Council matters, and therefore the Council no longer need a tiebreaker vote. But to all the rest, He appeared. They were all His, and had always been His. Even the non-believers, who thought of him as nothing more than a reality bender with a god complex, would have no choice but to go along. They were all His, as sure as the hands attached to His Body.
+
+				Thirteen people leaped from their seats, from their beds, fell to their knees, tripped and fell to the ground.
+
+				"Uriel, my servant, once told your Founder to prepare for the great and terrible day of the Lord," Yahweh said in thirteen voices at once. "This day now approaches. Make your final preparations. There is nothing else you will need to do but wait. My armies ride across the Earth. Soon I will call the Four Horsemen. Once the last judgment has been unsealed, then shall the great and terrible day of the Lord come. And then all will have Paradise."
+
+				He returned to a single human body, without waiting for a reply, returned to a slight feeling of vertigo. He might have been an omnipotent super-being, but it would not have done to cram everything into this tiny human body that He'd elected to stay in until the End of Days was over. Because of that, He hadn't recently made a practice of existing in several places at once. It came naturally, like breathing, but still felt unusual, like breathing for the first time after spending long minutes underwater.
+
+				Actually, there was something odd… some little twinge of memory, triggered by what He had just done…
+
+				The thought slipped from His grasp. That was the downside of human frailty. This was a perfected human body, but even a perfected human body was still flawed compared to true omniscience.
+
+				He knew the next step, as he always knew. He would return to the ancient Valley with no name. The first place He had ever created, the precursor to Eden. The Valley where none had ever set foot but Him, and never would, not even after the End of Days.
+
+				He took a step, and was there.
+
+				And…
+
+				He wasn't alone.
+
+				Klaxons blared in Site 2036. Everett Mann listened, bemused. Emergency Order Patmos or no, there was no need for all that racket.
+
+				He stepped out of the former auxiliary research and containment chambers for SCP-098, into a mob of personnel. No one stopped to give him the time. Fairly rude, Everett thought. 098 wasn't even killing anyone. Just… leaving. The holes in the walls and ceiling could be rebuilt.
+
+				He spotted Gears in the crowd and made his way over. Another person who could be trusted to deal with situations in a reasonable fashion.
+
+				"It seems we have a massive containment breach," Gears said.
+
+				"Yes, SCP-098," Everett said. "I hear 995 and 616 have breached containment as well. 001-Gamma, soon, I'm sure. But I don't see what the fuss is about. We've stopped XK-class scenarios before, we can do it again. The only difference in this case is that we might have to deal with O5-14 putting up a fuss—"
+
+				Gears held up a hand. Interruption was not his style, Everett knew, which is partly why he could stop anyone in their tracks with that gesture. "I'm not speaking of Patmos," Gears said. "Nor 001-Gamma."
+
+				"Oh?" Everett raised an eyebrow. "What else has gotten out?"
+
+				"A whole damn lot," Gears said, perfectly calmly, swearing for the first time that Everett had ever heard.
+
+			</p>
+
+		<textarea rows="15" cols="50" name="sentence2"required></textarea>
+		</div>
+
+		<div>
+			<h2><a href="http://www.scp-wiki.net/eden"> Eden</a></h2>
+
+			<p>
+
+				I remember the warmth. That is the first thing I recall. The light was there as well, the soft orange glow of a dying star. But the warmth… It cannot be easily described. It is nothing like the cold of this place.
+				There were others there, like me. We are large creatures, and so we do not live in a place crowded with rocks, as this system is. Our home is not filled with stone but with soft warmth, and with the quiet light of a star that has found its place. I was told that the star was young when we first arrived there, and there is an ancient one who claims to remember when it would still speak. I do not believe his ramblings.
+
+				We spend a great deal of time as children incapable of rational thought. None remember this period of their lives, though the caretakers tell us that it is amusing. We chase after debris with a joy that is lost to the old, cavorting through space with an innocence that some have spent an eternity trying to recreate.
+
+				But, of course, you are not here to learn this. You are here because you wonder what our purpose is, what I am here to do?
+
+				There is a seed within each of us. As we mature, it evolves. Eventually, it multiplies. The process is… complex, and I fear it is beyond your understanding. I will say that we may exercise some control over this evolution, and that many of our race take great pride in the complexity and beauty of their creations.
+
+				We carry this seed with us throughout our lifetimes, thousands of tiny lives held in an embryonic limbo. Some choose to never allow this seed to grow, unwilling to leave the glory of the skies for something so mundane as gardening. But others of us, we know what must be done.
+
+				And so we leave. We leave the warmth and joy and peace of that glad star and depart into the cold void. None who leave ever return. No songs are sung of their success, no warnings returned from their deaths. None are heard from again.
+
+				We search through debris and rocks and vast stretches of black nothingness, looking for somewhere that a small seed might take root and grow. It is a long, impossible task, and my telling of it would take many of your lifetimes.
+
+				Suffice it to say that after a great deal of searching, I happened upon a small planet that looked rather promising. And so I took the plunge.
+
+				That is not an experience I wish to repeat. The fires of the air scalded me terribly before I came to rest in the oceans, and my recovery was long and unpleasant. But I had dedicated myself to this task, and I could not turn from it.
+
+				That seed within us… ruptures, that is the word. It ruptures on our landing. After that rupture, the seed is released. It grows within us, colonizing our bodies. As its numbers swell, some may find their way out to the world on which we have landed. I know that a few small creatures from within me have made their way to the waters of this planet, though the majority remain within.
+
+				Eventually, I will expire. That great impact shortens our lifespan, and the growth of a civilization within us does nothing to alleviate this. Eventually, those creatures within me will find an exit.
+
+				Everything will change.
+			</p>
+
+		<textarea rows="15" cols="50" name="sentence3"required></textarea>
+		</div>
+
+		<div>
+			<h2><a href="http://www.scp-wiki.net/green-pawn"> Green Pawn</a></h2>
+
+				A young boy walked lazily around Site 40, watching brooding soldiers and overworked scientists make their daily rounds. He was a janitor, with access only to what he needed to fix, and the general workings of the Foundation. There was nothing to hide from him; all sensitive materials were either secured within locked rooms or on endlessly secured computers. Usually.
+
+				He eventually wandered to the cafeteria, moderately filled, with very little noise. The janitor got a small snack and began to exit, but quickly stopped himself as he saw a woman walk through. Very few new people joined the staff, and those who did almost always seemed slightly unsure of themselves. She was different. She seemed like she could stop a bullet with her gaze.
+
+				She passed through quickly, with a slightly rushed gait. Silently, the janitor followed her. He knew that it wasn't in his best interests, but he had both a curiosity and an understanding that most people didn't even see in him in the first place.
+
+				He watched her dodge through many corridors, eventually stopping at a door he had memorized over many months.
+
+				He had been at the site for months, and he could recognize nearly all the staff, but, every couple of weeks, he saw a group of people, small in number, make their way into an unmarked room, and after many hours, file out once again. The members of this group, from what he had gathered from the members of his staff's site, had no noticeable connection. Physiologists, physicists, tacticians, every field under the sun. These shadowy people were very secretive, even by the Foundation's standards, usually not even conversing with other researchers out of purely technical matters. He tried to keep a watch out for them, but if he even saw the edge of their glare, he inched out as fast as possible.
+
+				Today, he waited in the cafeteria for the woman to pass through again. He didn't know if she would, but he was on break and had a few minutes to wait and watch. Soon, she arrived. As she walked through, along with three researchers in the site's staff, he heard a researcher a couple of tables away attempt to joke with some half-asleep coworkers about something work-related.
+
+				"…explosion with four forty seven. It affects spacetime so everything seems green! Huh, whadda ya think?"
+
+				"You're drunk?" The young woman was as visibly bored as she could be without being openly rude.
+
+				"No, you're just jealous! Amazing Green, I'm gonna call it. Patent it. Market it. They're gonna call me the Green King before I'm—"
+
+				The eccentric researcher's last word echoed as he raised his voice to emphasize. The four professors suddenly stopped in their tracks, and glanced over their shoulders, a mix of anger and suspicion on their faces. They listened for half a minute more, and after realizing what the researcher was talking about, left to their own lives.
+
+				An unknown distance away, a woman stood, feeling the world around her. She was angry - as she commonly was. She hated anger. She hated hate. She hated herself. She wanted peace. Tranquility. Freedom. She was trapped, needing to control her actions so she wouldn't be chased by…them. She hated them, only because they were relentless. They hunted her. She knew that they feared her, knew she was capable of changing the world. They weren't the only ones, but they were the most persistent. The constant thorn in her side.
+
+				She lost the feeling. When someone thought of her who knew what she could do, they always thought of her in the same way. She eventually found a way to track those thoughts, track those who knew about her. She could erase their memories, or otherwise dispose of them, as long as it was under the radar.
+
+				Then, one day, they disappeared. Every person who knew her slowly faded off her inner radar. She didn't know what they did, and she couldn't figure it out. She spent months looking for any sign of where they had gone. Finally, she hit on an isolated location in Alberta. She couldn't be certain, but it was a building with foot traffic going in and out and she couldn't hear any thoughts at all. Someone was hiding something, and she had a guess who.
+
+				She stopped reminiscing, and focused on finding someone to throw the Foundation on a wild goose chase. Her mind stumbled upon a person with a dynamic love of bizarreness and creativity that some would describe as "insanity". She saw it as a useful trait under the circumstances. She quickly decided to turn him into her own personal distraction, letting her mind rest as her new pawn wreaked havoc.
+
+				Site-40
+
+				As the janitor finished mopping up the last hallway of his graveyard shift, he felt the ground shake as an ungodly metallic screech echoed down from the center of the site.
+
+				He heard many women and men yell to each other as emergency klaxons started to wail. He quickly retreated to a side hallway as a squadron of soldiers rushed towards the commotion. The boy decided to attempt to find out the cause of the commotion. He had heard of containment breaches, but there were very few SCP-related rooms in the inner structure.
+
+				He wandered into a nearby office, attempting to find a reason behind the alarm, and futilely started checking the locked computers until he heard many loud cracks coming from outside the office. He quickly hid under a desk, hearing bullets ricochet and men and women scream.
+
+				The clanking grew closer and closer. He quickly made his way into the darkest corner of the room, wide eyes watching the door to the hallway. He suddenly felt the air rush by him as a heavy-built man flew through the wall and into a bookshelf, hanging onto threads of consciousness.
+
+				Through the newly-made hole in the wall, he heard a drunken voice half-singing, half-screeching a small poem, with a sadistic snicker.
+
+				"Oh Mother, Mother, she hates you so,
+				She hates you and wished you would go,
+				And let her be,
+				Or wipe you from histor-eeeee~"
+
+				That tune stuck in the boy's mind, shoveled in next to the screams of pain and maelstrom of whizzing bullets.
+
+				He jumped at a sound behind him. He turned to see the solider attempting to get to his feet, despite bleeding from head to toe. The janitor, despite his fears, helped the guard to his feet, and saw him stumble back to the hole, kneeling on one damaged leg, using his assault rifle to attempt to fell the singing madman. The singing stopped for a second, and in the silence that followed, he heard a low growl before hundreds of small objects flew through the wall, scraping him in many places, leaving large gashes on his torso as he finally, realizing inevitably the end of his own bleeding life, wandered to the hole in the wall.
+
+				He saw many bloody corpses laid about, many with scratches just like his own. In the middle of the carnage, a skinny, blond haired man whistled the accursed tune that the janitor had heard. There were small pieces of debris - splinters of wood, concrete blocks the size of a mans' fist, and twisted metal, slowly orbiting around the man in a fluid, deliberate fashion. The same debris had just punctured hundreds of holes in the room he was in.
+
+				The janitor, blood dripping from his hair, watched as the woman from before held a stone tomahawk, its head pointing at the interloper. She muttered a single word, and a blinding flash enveloped the hallway.
+
+				The boy fell limp as the woman heard the tomahawk make a firm "thump" in the intruder's skull.
+
+			</p>
+
+
+		<textarea rows="15" cols="50" name="sentence4"required></textarea>
+		</div>
+
+		<div>
+			<h2><a href="http://www.scp-wiki.net/revelation">Revelation</a></h2>
+
+			<p>
+
+				Yahweh walked into the Valley, more astonished than He could ever remember feeling. An astonishment beyond words. He had never been at a loss for words.
+
+				The Valley — His Valley — was crowded. A massive flood of spirits, of winged things, of crawling things, of monsters, of people, of… of…
+
+				Of others.
+
+				A spirit whale swooped overhead. A gigantic furred thing lumbered its way over a distant mountain. A cadre of tiny glittering blue humanoids blew past His face, giggling, and were gone. A pure black humanoid figure appeared, blinked at Him, and vanished again. A massive not-centipede skittered by, giving Him a passing glare.
+
+				Almost in a stupor, Yahweh made His way down towards the humanoid crowd, feeling, for the first time He could remember, the instinctive need to be near others like Him.
+
+				As He approached, a figure detached itself from a crowd. A poised, brown-skinned woman with piercings in her lip, and long dark hair. For a moment Yahweh found Himself oddly attracted—
+
+				I am not a man, to wish for carnal knowledge—
+
+				"El!" the woman said.
+
+				"Who are you?" Yahweh asked, before He could register the impossibility of the question in His Head.
+
+				The woman looked at him funny. "I guess it's not surprising you don't remember. We've all forgotten a lot in the past few thousand years. But you especially."
+
+				Yahweh could think of absolutely nothing to say.
+
+				"Asherah," she said. "It's Asherah. I was your consort for several hundred years."
+
+				There were strange stirrings inside his head, alien memories that He could not comprehend—
+
+				These were other gods, they were the false idols of the ancient times, He remembered being a god of the wind and a god of storm and a god of the sun, a parochial, jealous deity, He remembered creating the Heavens and the Earth in seven days, He (he) remembered being a completely non-divine yet unspeakably powerful boy born into suffering and pain, He remembered being someone else forced into the shape of an artificial god, He remembered a feeling of exultation upon realizing He was the last god standing, the last god who had not faded away, and the future of Earth was His forever, He remembered having no parents, He (he) remembered his grandmother's smile, He remembered a million impossible contradictory memories, and they were doing it, this cursed human form had let them in, it was them—
+
+				"Enough!" He roared.
+
+				Yahweh raised His hand, looked at the crowd of creatures trampling through His Valley, and with a wave of His hand wiped all the false gods out of existence.
+
+				Or… He tried to, anyway. What He actually did was wave his hand, and then absolutely nothing happened.
+
+				"You know," Asherah said with a wry smile, "I may be your ex, but wiping me out of existence is a really rude thing to try to do."
+
+				She put her hand on Yahweh's shoulder without His permission, and did not explode into nothingness out of blasphemy.
+
+				"I know why you're here," she said. She pointed, directing His gaze towards the center of the Valley.
+
+				Yahweh saw it, a tiny object that floated in a rippling core of colorful light that moved like water.
+
+				It was a Lock.
+
+				"You're here to end the world," Asherah said. "And so are we. Everyone here."
+
+				"This is not possible," Yahweh said. He was feeling that vertigo again.
+
+				"To be frank," Asherah said. "I'm not actually sure I'm the Asherah, and I'm not actually sure you're the Yahweh."
+
+				"What."
+
+				"You might have noticed that you remember a whole lot of contradictory things," she said. "So do I. I remember both helping to create the world and being born into it when it was already ancient. That's just for starters. Now maybe this kind of thing is part of being a god, or maybe… Maybe it's just part of being more powerful than a human was ever meant to be." She looked back at the crowd. "Not all these things are gods, I know that for sure. We're just two of the beings that are 'supposed' to end the world. Everyone in this valley is."
+
+				Yahweh turned His glare on her. "So you — all of you — are here to make war with Me? To come against Me, to stop My End of Days?"
+
+				"Well. Yeah." She looked a little awkward, like she was trying to explain something to someone who was being painfully slow. "It's not really about you… specifically. Really, I don't think half the, uh, world-enders here knew about each other before literally a few minutes ago. They can't fight here, but… Most of them aren't happy to find out that they've got competition. Not just you."
+
+				He tried to comprehend this. A thought that He was entirely unused to having. "Do you think you can stand against the might of the one true God? Do you think you can enact your own End of Days?"
+
+				Asherah shrugged. "I don't know. Maybe? I'm not going to try."
+
+				He blinked, momentarily baffled. "You are not going to try to end the world?"
+
+				"Me?" Asherah snorted. "Fuck no."
+
+				"You told me… Then why are you here?"
+
+				"I may have been called here, but not even that Lock can make me end the world. Have you ever tried the seafood in Singapore? Have you ever used a smartphone? Run through the jungle? Seen Cirque du Soleil? Flown on an airplane? Surfed the Internet? Watched tentacle porn? Seen Star Wars? Explored the Wanderer's Library? Been lost in the concrete mazes of the new human cities? No, I like the world the way it is, thanks. It may be fucked up, but tearing it apart isn't going to improve anything."
+
+				He stared at her.
+
+				"So no," she said. "I don't plan to end the world. I actually don't plan to let you end the world either, or anyone else." She paused. "Sorry."
+
+				Divine rage rose up in Yahweh again, and He opened His mouth, only to be once again interrupted.
+
+				"Pardon me," another woman's voice said.
+
+				The new woman's voice was not raised, or powerful, but somehow everyone in the Valley heard it. And all turned to look.
+
+				She was a dark-skinned woman, African, wearing a gray suit, walking into the Valley. Her body language said she was both unassuming and confident. Yahweh knew immediately she was an ordinary human, not like these alien creatures milling around him, but He did not recognize her.
+
+				He did not recognize her.
+
+				That should not have been possible, ever, not even in this limited human form. Yahweh knew all, and even if these false gods and "world-enders" were able to stymie Him somehow, no human should—
+
+				"I come on behalf of the SCP Foundation," the woman said. "Some of you know who we are. Some of you do not. The Foundation are the protectors of humanity. Some of you we have imprisoned, some of you we have bargained with, all in defense of humanity." She sat on the ground, cross-legged, formality inherent in her movements, some kind of ritual that Yahweh almost recognized… "I have come to talk."
+
+				There was a long silence.
+
+				"And what are you?" a crimson-skinned creature asked her.
+
+				"I am a human," she said. "I am the Administrator of the SCP Foundation."
+
+				"Impossible," Yahweh said. "I knew all the Administrators. The last one died years ago, and you are not he. You are none of them."
+
+				"I'm protected from—" the woman started.
+
+				"You are not human," a panther-shaped entity shouted from the crowd. Yahweh seethed at the interruption. "If you were human, we would be able to touch you."
+
+				"I am protected," the Administrator said again. "But outside of my protection, I really am nothing more than a human. Like all the humans you plan to kill in your quest to end the world."
+
+				"Then what do you want, Human?" another world-ender asked.
+
+				"We can open the way to worlds free of sentient life. Many worlds. Enough room for all of you. You won't have to end this world. No humans will have to die. You will have a hundred others." She paused. "I want you to let this world live out the rest of its history in peace."
+
+				A clamor of voices broke out. Not all of it was verbal - much was broadcast by thought.
+
+				What are you saying—
+
+				Is this supposed to be an insult—
+
+				I come to save the world, I must end it to save it—
+
+				This is not a human's place—
+
+				This is the end of days—
+
+				How did you come here, how did any of you—
+
+				All will burn—
+
+				This age is over, as the ages before it also had an end—
+
+				Who will deny me, certainly not a tiny thing like—
+
+				"What do you offer in exchange, Human?" a massive, fox-furred being asked, once the voices started to quiet down.
+
+				"In exchange…" The Administrator hesitated. Though He could not read her mind, Yahweh could tell that she was unsure about what she was about to say. Uncertain, even afraid.
+
+				"In exchange, we will not destroy you."
+
+				Silence. A few of the entities laughed. Most looked uncaring or simply baffled. Many began to move on, apparently losing interest.
+
+				"Will none of you consider my offer?" the Administrator asked.
+
+				No one answered.
+
+				"Very well." The Administrator drew herself up.
+
+				"Why do you not join us, Human?" an amorphous blue form called out from the crowd. "Take your Foundation and come end the world with us. In the new world, you will have anything you could wish for. Anything you could imagine."
+
+				"We are the Foundation," the Administrator said. "We will not worship you. We will not join you. We will not go back to hiding in fear of you. I hope you will change your minds, but we will stand against you, and alone, if we have to."
+
+				She looked at Yahweh, directly, and for a fleeting instant, Yahweh thought of Himself as SCP-343.
+
+				"All of you," the Administrator said.
+
+				Her form flickered, and she vanished from the Valley, leaving no trace behind.
+
+			</p>
+		<textarea rows="15" cols="50" name="sentence4"required></textarea>
+		</div>
+
+		<input type="submit">
+	</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
